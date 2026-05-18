@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou André Kayky
 
-<!--
-**andrekayky/andrekayky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em aprendizado e estudante de tecnologia  
+🚀 Focado em desenvolver sites  
+📚 Atualmente estudando javaScript, HTML e CSS 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60">
+</p>
+</div>
+
+---
+
+
+## 🎯 Objetivos
+- Evoluir como desenvolvedor
+- Criar projetos profissionais
+- Aprender novas tecnologias
+- Construir uma carreira na programação
+
+---
+
+## 📫 Contato
+
+- Email: andrekayky.dev@email.com
+
+---
+
+## ⚡ Sobre mim
+Sempre buscando aprender algo novo e melhorar minhas habilidades na programação.
