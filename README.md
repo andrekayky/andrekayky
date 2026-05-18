@@ -19,20 +19,7 @@
 
 ---
 
-
-## 🎯 Objetivos
-- Evoluir como desenvolvedor
-- Criar projetos profissionais
-- Aprender novas tecnologias
-- Construir uma carreira na programação
-
----
-
 ## 📫 Contato
 
 - Email: andrekayky.dev@email.com
 
----
-
-## ⚡ Sobre mim
-Sempre buscando aprender algo novo e melhorar minhas habilidades na programação.
